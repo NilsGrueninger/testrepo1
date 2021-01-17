@@ -1,2 +1,2 @@
-echo "Hallo Nils"
+echo "Hallo Nils!"
 
